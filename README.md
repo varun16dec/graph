@@ -10,7 +10,7 @@ Adjacencylist.cpp
   
     Adjacency list implementation of a graph
     used array and linklist
-    o(V+E)
+    O(V+E)
 
 BFS.cpp
   
