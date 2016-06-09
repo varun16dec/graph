@@ -23,5 +23,11 @@ Shotestpath.cpp
     used Breadth First Search for calculation
     used c++ stl to implement adjacency list and queue
     
+UndirectedConnectivity.cpp
+    
+     checks connected components of a graph
+     uses BFS
+     used c++ stl to implement adjacency list and queue
+    
 
 
